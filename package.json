@@ -1,7 +1,7 @@
 {
-  "name": "bcash",
+  "name": "@abcpros/bcash",
   "version": "1.1.1",
-  "description": "Bitcoin cash bike-shed",
+  "description": "Lotus cash bike-shed",
   "license": "MIT",
   "repository": "git://github.com/bcoin-org/bcash.git",
   "homepage": "https://github.com/bcoin-org/bcash",
@@ -23,6 +23,7 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
+    "@abcpros/xaddress": "^0.0.9",
     "bcfg": "^0.1.5",
     "bclient": "^0.1.6",
     "bcrypto": "^3.0.2",
