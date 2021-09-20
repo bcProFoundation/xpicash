@@ -1,12 +1,12 @@
 {
-  "name": "@abcpros/bcash",
+  "name": "@abcpros/xpicash",
   "version": "1.1.1",
   "description": "Lotus cash bike-shed",
   "license": "MIT",
-  "repository": "git://github.com/bcoin-org/bcash.git",
-  "homepage": "https://github.com/bcoin-org/bcash",
+  "repository": "https://gitlab.com/abcpros/libraries/xpicash",
+  "homepage": "https://gitlab.com/abcpros/libraries/xpicash",
   "bugs": {
-    "url": "https://github.com/bcoin-org/bcash/issues"
+    "url": "https://gitlab.com/abcpros/libraries/xpicash/issues"
   },
   "author": "Fedor Indutny <fedor@indutny.com>",
   "contributors": [
